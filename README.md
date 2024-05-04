@@ -44,4 +44,4 @@ Virtual Vibe is built as a simple and intuitive platform for connecting with fri
 - This project utilizes the Agora SDK for live video calling.
 
 ## Support
-For any issues or suggestions, please open an issue in the GitHub repository or contact the developer at [your-email].
+For any issues or suggestions, please open an issue in the GitHub repository or contact the developer at hanumappa2003@gmail.com.
